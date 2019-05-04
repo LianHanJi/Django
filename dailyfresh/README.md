@@ -19,3 +19,5 @@ Nginx+fastdfs实现对图片的存储
 
 购物车模块
 使用Redis对购物车商品进行记录缓存
+
+配置环境：django2.2，python3.6.5
